@@ -15,7 +15,7 @@ Follow the steps below to install and run the project locally:
 1. Clone this repository into your catkin_ws: `$ git clone https://github.com/PXLRoboticsLab/ROStrUCam.git`
 2. Give the script run permission: `$ sudo chmod u+x connect.py`
 3. Start a roscore: `$ roscore`
-4. Run the script: `$ rosrun pixpro_connector connect.py [--index] [--topic] [--fps] [--width] [--height] [--screen]`:
+4. Run the script: `$ rosrun ROStrUCam connect.py [--index] [--topic] [--fps] [--width] [--height] [--screen]`:
 	* --index (**int**): The index of the usb camera, most of the time this is 0 unless you have an internal camera and want to use an external USB camera.
 	* --topic (**String**): The name of the ROS topic you want to publish to.
 	* --fps (**int**): The maximum amount of frames to publish per second.
