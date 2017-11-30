@@ -12,7 +12,7 @@ For this project to work you first need to install some dependencies.
 
 ### Install
 Follow the steps below to install and run the project locally:
-1. Clone this repository into your catkin_ws: `$ git clone https://github.com/MaartenBloemen/GoogleFaceScraper.git`
+1. Clone this repository into your catkin_ws: `$ git clone https://github.com/PXLRoboticsLab/ROStrUCam.git`
 2. Give the script run permission: `$ sudo chmod u+x connect.py`
 3. Start a roscore: `$ roscore`
 4. Run the script: `$ rosrun ROStrUCam connect.py [--index] [--topic] [--fps] [--width] [--height] [--screen]`:
