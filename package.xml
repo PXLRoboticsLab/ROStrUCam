@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>pixpro_connector</name>
-  <version>0.0.0</version>
-  <description>The pixpro_connector package</description>
+  <name>ROStrUCam</name>
+  <version>0.0.1</version>
+  <description>The ROStrUCam package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
